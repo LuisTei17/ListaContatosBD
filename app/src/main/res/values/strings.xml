@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">listaContatosBD</string>
+    <string name="title_activity_toast">toastActivity</string>
+    <string name="title_activity_tela_editar">TelaEditar</string>
+</resources>

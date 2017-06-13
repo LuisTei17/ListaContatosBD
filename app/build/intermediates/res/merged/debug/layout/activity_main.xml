@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="com.example.root.listacontatosbd.MainActivity">
+
+    <EditText android:id="@+id/etNome"
+        android:hint="Nome"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton android:id="@+id/rbMasc"
+            android:hint="Masculino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+        <RadioButton android:id="@+id/rbFemi"
+            android:hint="Feminino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+    </RadioGroup>
+
+    <CheckBox android:id="@+id/cbMusi"
+        android:hint="Musica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <CheckBox android:id="@+id/cbFilm"
+        android:hint="Filme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <Button android:id="@+id/btCadastrar"
+        android:hint="Cadastrar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <Button android:id="@+id/btSalvar"
+        android:hint="Salvar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

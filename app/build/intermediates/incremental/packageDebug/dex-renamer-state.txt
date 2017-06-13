@@ -1,0 +1,7 @@
+#Mon Jun 12 23:45:12 BRT 2017
+base.0=/root/AndroidStudioProjects/listaContatosBD/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c20e3c633f06bf12264fb002348153f5201267ff
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/root/AndroidStudioProjects/listaContatosBD/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ce89004b13ef563760fa24e9d8b0860e0ec9bf0/classes.dex
+base.1=/root/AndroidStudioProjects/listaContatosBD/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_5ce89004b13ef563760fa24e9d8b0860e0ec9bf0
+file.0=/root/AndroidStudioProjects/listaContatosBD/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c20e3c633f06bf12264fb002348153f5201267ff/classes.dex
